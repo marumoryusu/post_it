@@ -18,6 +18,11 @@ gem 'uglifier', '>= 1.3.0'
 # pass_word_hash
 gem 'bcrypt'
 
+gem 'faker'
+
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
+
 # jquery
 gem 'jquery-rails'
 
